@@ -1,7 +1,6 @@
-dbPassword = 'mongodb+srv://user99:'+ encodeURIComponent('password.9') + '@cluster0-i35xb.mongodb.net/test?retryWrites=true&w=majority';
+dbPassword = 'mongodb+srv://alexmongo:'+ encodeURIComponent('PYKuCj@4Cw@2tEt') + '@cluster0-wrwod.mongodb.net/test?retryWrites=true&w=majority';
 
-
-// mongodb+srv://user99:<password>@cluster0-i35xb.mongodb.net/test?retryWrites=true&w=majority
+// mongodb+srv://alexmongo:<password>@cluster0-wrwod.mongodb.net/test?retryWrites=true&w=majority
 
 
 module.exports = {
